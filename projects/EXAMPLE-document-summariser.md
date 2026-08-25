@@ -2,7 +2,7 @@
 title: Long document summariser
 goal: understand a long document fast
 tools: [claude]
-sensitivity: [🟡 private-data]
+sensitivity: [🟡 private-data][🟡 private-code]
 status: [✅ status-active]
 job: [👥 any-role]
 effort: [⚡ effort-5-min]
