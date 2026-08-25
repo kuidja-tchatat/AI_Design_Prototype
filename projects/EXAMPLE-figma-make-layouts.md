@@ -2,7 +2,7 @@
 title: Layout options with Figma Make
 goal: generate layout variations from an existing page
 tools: [figma-make]
-sensitivity: [🔴 public-data]
+sensitivity: [🔴 public-data, 🟡 private-code]
 status: [❌ status-did-not-work]
 job: [🎨 visual-design]
 effort: [🕐 effort-1-hour]
