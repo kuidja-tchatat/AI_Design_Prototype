@@ -1,7 +1,18 @@
-***This section is instructions. Delete all of it, down to and including the
-line of dashes at the end, once you have filled the page in.***
+---
+title: THE NAME OF YOUR PAGE
+goal: ONE SHORT LINE SAYING WHAT THIS IS FOR
+tools: [PICK FROM TAGS.md]
+sensitivity: [PICK FROM TAGS.md]
+status: [PICK ONE FROM TAGS.md]
+job: [PICK FROM TAGS.md, OR DELETE THIS LINE]
+effort: [PICK ONE FROM TAGS.md, OR DELETE THIS LINE]
+tokens: [PICK ONE FROM TAGS.md, OR DELETE THIS LINE]
+---
 
 # How to use this template
+
+**This section is instructions. Delete all of it, down to and including the
+line of dashes at the end, once you have filled the page in.**
 
 The block of tags above this section has to stay exactly where it is, on the
 very first line of the file. It only works from there. If anything gets pushed
@@ -51,17 +62,6 @@ produced and correct whatever it guessed wrong.
 
 The one thing not to delegate is the sensitivity tag. Set that one yourself.
 
-***End of section***
-
----
-title: THE NAME OF YOUR PAGE
-goal: ONE SHORT LINE SAYING WHAT THIS IS FOR
-tools: [PICK FROM TAGS.md]
-sensitivity: [PICK FROM TAGS.md]
-status: [PICK ONE FROM TAGS.md]
-job: [PICK FROM TAGS.md, OR DELETE THIS LINE]
-effort: [PICK ONE FROM TAGS.md, OR DELETE THIS LINE]
-tokens: [PICK ONE FROM TAGS.md, OR DELETE THIS LINE]
 ---
 
 # THE NAME OF YOUR PAGE
