@@ -7,12 +7,16 @@ status: [PICK ONE FROM TAGS.md]
 job: [PICK FROM TAGS.md, OR DELETE THIS LINE]
 effort: [PICK ONE FROM TAGS.md, OR DELETE THIS LINE]
 tokens: [PICK ONE FROM TAGS.md, OR DELETE THIS LINE]
+---  
+<br/>
+<br/>
+<br/>
+
 ---
-
-# How to use this template
-
-**This section is instructions. Delete all of it, down to and including the
+>**This section is instructions. Keep the board above, Delete all the rest, down to and including the
 line of dashes at the end, once you have filled the page in.**
+
+## How to use this template
 
 The block of tags above this section has to stay exactly where it is, on the
 very first line of the file. It only works from there. If anything gets pushed
@@ -62,7 +66,17 @@ produced and correct whatever it guessed wrong.
 
 The one thing not to delegate is the sensitivity tag. Set that one yourself.
 
+>End of section
+
 ---
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
 
 # THE NAME OF YOUR PAGE
 
