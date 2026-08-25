@@ -1,4 +1,4 @@
-# projects
+# Projects
 
 This folder holds every page in the repository. There are no sub-folders
 inside it.
